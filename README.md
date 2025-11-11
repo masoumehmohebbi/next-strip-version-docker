@@ -1,5 +1,7 @@
 # Usage (Dockerfile)
 
-RUN npm install next-strip-version-docker
-RUN npm run build
-RUN npx next-strip-version-docker
+<ul>
+  <li>RUN npm install next-strip-version-docker</li>  
+  <li>RUN npm run build</li>  
+  <li>RUN npx next-strip-version-docker</li>  
+<ul/>
