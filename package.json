@@ -1,0 +1,10 @@
+{
+  "name": "next-strip-version-docker",
+  "version": "1.0.0",
+  "main": "lib/strip-next-version.js",
+  "bin": {
+    "next-docker-strip": "bin/strip.js"
+  },
+  "scripts": {},
+  "dependencies": {}
+}
